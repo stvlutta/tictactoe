@@ -1,0 +1,8 @@
+# No external dependencies required for this project
+# Uses only Python standard library modules:
+# - sqlite3 (built-in)
+# - os (built-in)
+# - datetime (built-in)
+
+# To run the game:
+# python tictactoe.py
